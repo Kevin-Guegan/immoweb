@@ -39,3 +39,13 @@
 
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
+
+\.idea/immoweb\.iml
+
+\.idea/modules\.xml
+
+\.idea/php\.xml
+
+\.idea/symfony2\.xml
+
+\.idea/workspace\.xml
